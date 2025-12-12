@@ -1,7 +1,7 @@
 Sales Report :
 
 Project Objective:
-1. Create a Customer Performance Report- [https://github.com/ankitjainkj/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Perfromance%20Report.pdf
+1. Create a Customer Performance Report- [[https://github.com/ankitjainkj/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Perfromance%20Report.pdf](url)
 ](url)
 3. Conduct a detailed comparison between Market Performance and Sales Targets - [https://github.com/ankitjainkj/Excel-Sales-and-Finance-Analytics/blob/main/Market%20performance%20vs%20Target.pdf
 ](url)
